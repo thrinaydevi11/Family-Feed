@@ -204,15 +204,6 @@ Planned Features:
 ├── Family Member Sharing
 └── Advanced Search
 ```
-
-## WIREFRAMES
-![IMG_2065](https://github.com/user-attachments/assets/0633499d-d50c-48b4-b57b-dfcf789ef13e)
-
-### FIGMA Digital Wire Frame LINKS
-https://www.figma.com/design/CPbO0hsA3dxLu5n8svh14e/Project-WireFrame?node-id=0-1&m=dev&t=8RHlyY6hT1gP8MqN-1
-
-https://www.figma.com/proto/CPbO0hsA3dxLu5n8svh14e/Project-WireFrame?node-id=0-1&t=8RHlyY6hT1gP8MqN-1
-
 ## SCHEMA
 
 ### USER TABLE
